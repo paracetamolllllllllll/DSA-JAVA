@@ -1,0 +1,23 @@
+public class Main
+{
+	public static void main(String[] args) {
+		int a = 3;
+		int b = 5;
+		String name = "Horse";
+		double price = 45.5;
+		//we can change variable values too 
+		int a = 2;
+	}
+}
+------------------------------------------------------------------
+public class Main
+{
+	public static void main(String[] args) {
+		int a = 3;
+		int b = 5;
+		int sum = a + b ;
+		int diff = b - a;
+		System.out.println(diff);
+	}
+}
+------------------------------------------------------------------
